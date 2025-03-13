@@ -1,0 +1,46 @@
+[10-Aug-2022 12:13:27 Asia/Kolkata] PHP Fatal error:  Constant expression contains invalid operations in /home/rz7nxx0efrqd/public_html/fashion.graphionic.com/app/Modules/Manage_order/Views/order_invoice.php on line 34
+[10-Aug-2022 12:15:26 Asia/Kolkata] PHP Fatal error:  Constant expression contains invalid operations in /home/rz7nxx0efrqd/public_html/fashion.graphionic.com/app/Modules/Manage_order/Views/order_invoice.php on line 34
+[03-Sep-2022 10:03:44 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/app/Modules/server_api/Controllers/Server_api.php on line 1603
+[06-Sep-2022 10:52:27 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php:303
+Stack trace:
+#0 /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(303): abs()
+#1 /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes()
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#3 {main}
+  thrown in /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 303
+[06-Sep-2022 10:52:30 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php:303
+Stack trace:
+#0 /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(303): abs()
+#1 /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes()
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#3 {main}
+  thrown in /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 303
+[06-Sep-2022 10:52:36 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php:303
+Stack trace:
+#0 /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(303): abs()
+#1 /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes()
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#3 {main}
+  thrown in /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 303
+[06-Sep-2022 10:53:42 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php:303
+Stack trace:
+#0 /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(303): abs()
+#1 /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes()
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#3 {main}
+  thrown in /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 303
+[07-Sep-2022 16:05:05 Asia/Kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/app/Modules/Checkout/Controllers/Checkout.php on line 60
+[08-Sep-2022 12:36:06 Asia/Kolkata] PHP Fatal error:  Cannot declare class App\Modules\server_api\Controllers\Notification, because the name is already in use in /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/app/Modules/Manage_order/Controllers/Notification.php on line 0
+[08-Sep-2022 12:36:21 Asia/Kolkata] PHP Fatal error:  Cannot declare class App\Modules\server_api\Controllers\Notification, because the name is already in use in /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/app/Modules/Manage_order/Controllers/Notification.php on line 0
+[08-Sep-2022 12:37:49 Asia/Kolkata] PHP Fatal error:  Cannot declare class App\Modules\server_api\Controllers\Notification, because the name is already in use in /home/rz7nxx0efrqd/public_html/topjec.graphionic.com/app/Modules/Manage_order/Controllers/Notification.php on line 0
+[06-Oct-2022 13:54:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Modules\Countries\Controllers\Countries::change_status() in /home/rz7nxx0efrqd/public_html/ringdbell.graphionic.com/app/Modules/Countries/Controllers/Countries.php on line 314
+[12-Jun-2023 07:04:10 UTC] PHP Fatal error:  Uncaught Error: Class "Locale" not found in /home/liveokkirana/public_html/admin.okonlinekirana.com/vendor/codeigniter4/framework/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/liveokkirana/public_html/admin.okonlinekirana.com/vendor/codeigniter4/framework/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/liveokkirana/public_html/admin.okonlinekirana.com/vendor/codeigniter4/framework/system/HTTP/ResponseTrait.php(470): CodeIgniter\I18n\Time::now()
+#2 /home/liveokkirana/public_html/admin.okonlinekirana.com/vendor/codeigniter4/framework/system/HTTP/ResponseTrait.php(448): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/liveokkirana/public_html/admin.okonlinekirana.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(145): CodeIgniter\HTTP\Response->send()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#5 {main}
+  thrown in /home/liveokkirana/public_html/admin.okonlinekirana.com/vendor/codeigniter4/framework/system/I18n/TimeTrait.php on line 74
+[10-Jul-2023 12:58:33 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/liveokkirana/public_html/admin.okonlinekirana.com/app/Modules/server_api/Controllers/Server_api.php on line 1178
