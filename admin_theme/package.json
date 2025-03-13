@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "@claviska/jquery-minicolors": "^2.2.6",
+    "admin": "file:",
     "block-ui": "^2.70.1",
     "bootstrap": "^4.1.0",
     "bootstrap-colorpicker": "^2.5.2",
@@ -63,8 +64,8 @@
     "masonry-layout": "^4.2.1",
     "moment": "^2.22.1",
     "morris.js": "^0.5.0",
-    "nouislider": "^11.1.0",
     "nestable": "^0.2.0",
+    "nouislider": "^11.1.0",
     "perfect-scrollbar": "^0.6.11",
     "pickadate": "^3.5.6",
     "popper.js": "^1.14.3",
